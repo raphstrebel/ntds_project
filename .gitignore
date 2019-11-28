@@ -1,0 +1,8 @@
+# Data
+data/*
+
+# Jupyter notebook
+.ipynb_checkpoints
+
+# Mac
+.DS_Store
