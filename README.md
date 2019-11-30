@@ -4,7 +4,7 @@
 
 # Getting data
 
-# Understanding the data
+# Understanding the data
 
 # Using data
 - find recipes from list of ingredients
@@ -13,5 +13,5 @@
 # Data Setup
 Elias, à toi de jouer
 
-# Authors
+# Authors
 Elias Gajo, Karen Preitner, Raphael Strebel, Maël Wildi
