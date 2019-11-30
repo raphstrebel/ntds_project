@@ -17,5 +17,7 @@ It contains the ingredients, the rating of the recipe (number of reviews and gra
 Scraping will be needed since the dataset contains webpages, and it will take a long time since there are different types of webpages. 
 We will then store the dataset into a pickle file in order to avoid to rerun the scraping part each time we open the notebook.
 
+Cooking recipes dataset URL : http://infolab.stanford.edu/~west1/from-cookies-to-cooks/recipePages.zip
+
 # Authors
 Elias Gajo, Karen Preitner, Raphael Strebel, Maël Wildi
