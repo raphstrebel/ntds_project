@@ -14,8 +14,6 @@ Data : http://infolab.stanford.edu/~west1/from-cookies-to-cooks/recipePages.zip
 
 We do not keep all the dataset, as it contains receipies from 163 websites. It would be simpler to build a graph using e.g. the 2 or 3 thousand first recipes.
 
-# Setup
-
 # Limitations
 We do not have access to the quantity of an ingredient in a receipe, so we will use sets of ingredients without considering the weight/number of each of them.
 
