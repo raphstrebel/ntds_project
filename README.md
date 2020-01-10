@@ -1,5 +1,8 @@
 # NTDS Project
 
+# Remark 
+The user interface in the last section of the notebook is not displayed unless you run it.
+
 # Motivation
 We want to limit food waste. Our approach is to propose receipes that maximize the number of ingredients that you have at home, while possibly minimizing the number of new ingredients you have to buy.
 
