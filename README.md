@@ -14,13 +14,15 @@ Data : http://infolab.stanford.edu/~west1/from-cookies-to-cooks/recipePages.zip
 
 We do not keep all the dataset, as it contains receipies from 163 websites. It would be simpler to build a graph using e.g. the 2 or 3 thousand first recipes.
 
-# Limitations :
+# Setup
+
+# Limitations
 We do not have access to the quantity of an ingredient in a receipe, so we will use sets of ingredients without considering the weight/number of each of them.
 
-# Graph : 
+# Graph 
 As we use sets of ingredients, using the jaccard similarity as edge weighting method seems the most appropriate. 
 
-# Goal :
+# Goal
 Recommending recipes using a list of available ingredients, and an unwanted ingredient list, which contains all the ingredients that the user does not wish for in the final recipes proposed.
 
 # Authors
